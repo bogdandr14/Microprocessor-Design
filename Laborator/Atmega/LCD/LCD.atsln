@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Atmel Studio Solution File, Format Version 11.00
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "LCD", "LCD\LCD.cproj", "{DCE6C7E3-EE26-4D79-826B-08594B9AD897}"
+EndProject
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "LCD2", "LCD2\LCD2.cproj", "{2D7BACDD-40F8-4F7F-8A83-0317F36D4FEA}"
+EndProject
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "kbd", "kbd\kbd.cproj", "{37B16A26-9A02-4795-9CD5-B47B25ECAD90}"
+EndProject
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "Interfon", "Interfon\Interfon.cproj", "{6E1B8B79-5C97-48D9-968A-8EAA41E1C700}"
+EndProject
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "Ceas", "Ceas\Ceas.cproj", "{992AA11E-89F4-4FC5-A2FF-96BF462ADB33}"
+EndProject
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "pwm", "pwm\pwm.cproj", "{C9974372-916D-402D-9A76-EA409FAC07B3}"
+EndProject
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "int", "int\int.cproj", "{7E870075-B94C-4425-8E59-CD00681F30EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.Debug|AVR.ActiveCfg = Debug|AVR
+		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.Debug|AVR.Build.0 = Debug|AVR
+		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.Release|AVR.ActiveCfg = Release|AVR
+		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.Release|AVR.Build.0 = Release|AVR
+		{2D7BACDD-40F8-4F7F-8A83-0317F36D4FEA}.Debug|AVR.ActiveCfg = Debug|AVR
+		{2D7BACDD-40F8-4F7F-8A83-0317F36D4FEA}.Debug|AVR.Build.0 = Debug|AVR
+		{2D7BACDD-40F8-4F7F-8A83-0317F36D4FEA}.Release|AVR.ActiveCfg = Release|AVR
+		{2D7BACDD-40F8-4F7F-8A83-0317F36D4FEA}.Release|AVR.Build.0 = Release|AVR
+		{37B16A26-9A02-4795-9CD5-B47B25ECAD90}.Debug|AVR.ActiveCfg = Debug|AVR
+		{37B16A26-9A02-4795-9CD5-B47B25ECAD90}.Debug|AVR.Build.0 = Debug|AVR
+		{37B16A26-9A02-4795-9CD5-B47B25ECAD90}.Release|AVR.ActiveCfg = Release|AVR
+		{37B16A26-9A02-4795-9CD5-B47B25ECAD90}.Release|AVR.Build.0 = Release|AVR
+		{6E1B8B79-5C97-48D9-968A-8EAA41E1C700}.Debug|AVR.ActiveCfg = Debug|AVR
+		{6E1B8B79-5C97-48D9-968A-8EAA41E1C700}.Debug|AVR.Build.0 = Debug|AVR
+		{6E1B8B79-5C97-48D9-968A-8EAA41E1C700}.Release|AVR.ActiveCfg = Release|AVR
+		{6E1B8B79-5C97-48D9-968A-8EAA41E1C700}.Release|AVR.Build.0 = Release|AVR
+		{992AA11E-89F4-4FC5-A2FF-96BF462ADB33}.Debug|AVR.ActiveCfg = Debug|AVR
+		{992AA11E-89F4-4FC5-A2FF-96BF462ADB33}.Debug|AVR.Build.0 = Debug|AVR
+		{992AA11E-89F4-4FC5-A2FF-96BF462ADB33}.Release|AVR.ActiveCfg = Release|AVR
+		{992AA11E-89F4-4FC5-A2FF-96BF462ADB33}.Release|AVR.Build.0 = Release|AVR
+		{C9974372-916D-402D-9A76-EA409FAC07B3}.Debug|AVR.ActiveCfg = Debug|AVR
+		{C9974372-916D-402D-9A76-EA409FAC07B3}.Debug|AVR.Build.0 = Debug|AVR
+		{C9974372-916D-402D-9A76-EA409FAC07B3}.Release|AVR.ActiveCfg = Release|AVR
+		{C9974372-916D-402D-9A76-EA409FAC07B3}.Release|AVR.Build.0 = Release|AVR
+		{7E870075-B94C-4425-8E59-CD00681F30EA}.Debug|AVR.ActiveCfg = Debug|AVR
+		{7E870075-B94C-4425-8E59-CD00681F30EA}.Debug|AVR.Build.0 = Debug|AVR
+		{7E870075-B94C-4425-8E59-CD00681F30EA}.Release|AVR.ActiveCfg = Release|AVR
+		{7E870075-B94C-4425-8E59-CD00681F30EA}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
